@@ -5,14 +5,16 @@ Create a program that determines whether a given year is a leap year.
 A leap year is a year that is divisible by 4, but not divisible by 100 unless 
 it is also divisible by 400.
 
-The program should take a year as input and print "Leap year" if it is a leap 
-year, and "Not a leap year" otherwise.
+The program should take a year as input and print "The year {input year} is a leap year" if it is a leap 
+year, and "The year {input year} is not a leap year" otherwise.
 
-Example Output:
-2000 is a leap year
-2001 is not a leap year
-2004 is a leap year
-2100 is not a leap year
+Example Input/Output:
+
+Enter year to check: 1957
+The year 1957 is not a leap year.
+
+Enter year to check: 2024
+The year 2024 is a leap year.
 */
 
 //Solution 1:
