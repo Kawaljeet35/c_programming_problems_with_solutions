@@ -1,7 +1,7 @@
 /*
 Bubble Sort
 
-Write a program in javascript to implement the Bubble Sort algorithm and 
+Write a program in C to implement the Bubble Sort algorithm and 
 sort a given list in ascending order.
 */
 
